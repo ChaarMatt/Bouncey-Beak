@@ -59,8 +59,7 @@ Open a pull request
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 🎯 Author
-👤 Matthew Chaar
+👤 Matt C
 🔗 GitHub: ChaarMatt
-📧 Email: your-email@example.com
 
 🔥 Enjoy playing Bouncey Beak! If you like this project, please ⭐ star the repo and share it with friends! 🚀
